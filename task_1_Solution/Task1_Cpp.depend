@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528898594 source:d:\cppexample\task1_cpp\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<iomanip>
+
