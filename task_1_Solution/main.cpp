@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"  ...............Conversion...................\n ";
+    cout<<"  ...............Conversion...............\n ";
     int i_val,i_result,len_of_array=0;
     float f_val,f_result;
     string s_val;
